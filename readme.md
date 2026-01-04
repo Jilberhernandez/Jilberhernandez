@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=JILBER%20HERNANDEZ&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=JILBER+HERNANDEZ;IT+%26+Data+Specialist;From+Operations+to+Technology;Data-Driven+Solutions+Expert" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -26,7 +26,7 @@
       </ul>
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jilberhernandez&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="100%" />
     </td>
   </tr>
 </table>
@@ -58,5 +58,5 @@
 ## 📈 Activity & Impact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=vision-friendly-dark&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jilberhernandez&show_icons=true&theme=vision-friendly-dark&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="48%" />
   <img src="
