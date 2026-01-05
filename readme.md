@@ -18,26 +18,29 @@
 
 ## ⚡ Quick Overview
 
+## ⚡ Quick Overview
+
 <table align="center">
   <tr>
-    <td width="50%" style="vertical-align: top;">
-      <h4>🔍 The Profile</h4>
-      <ul>
-        <li><b>8+ Years</b> bridging the gap between Business & Technology.</li>
-        <li>Specialist in <b>Supply Chain & Financial Automation</b>.</li>
-        <li>Transitioning into <b>Full-Stack Foundations</b> with a Data-First mindset.</li>
-        <li>Expert in <b>ERP Systems</b> (SAP & Oracle).</li>
-      </ul>
+    <td width="50%" style="vertical-align: top; padding: 20px;">
+
+### 🔍 The Profile
+- **8+ Years** bridging the gap between Business & Technology  
+- Specialist in **Supply Chain & Financial Automation**  
+- Transitioning into **Full-Stack Foundations** with a Data-First mindset  
+- Expert in **ERP Systems** (SAP & Oracle)
+
     </td>
 
-    <td width="50%" style="vertical-align: top; padding-left: 20px;">
-      <h4>🧠 Focus Areas</h4>
-      <ul>
-        <li><b>Data & Analytics</b> — BI, Reporting, Automation</li>
-        <li><b>IT Systems</b> — ERP Integration & Process Design</li>
-        <li><b>Web Foundations</b> — React, Node.js, Express</li>
-        <li><b>Engineering Mindset</b> — Business-driven, scalable solutions</li>
-      </ul>
+    <td width="50%" align="center" style="vertical-align: middle; padding: 20px;">
+
+<img src="./assets/avatar.png" width="140" style="border-radius: 50%;" />
+
+<br/><br/>
+
+<b>IT & Data Focus</b><br/>
+Business-driven · Data-first · Scalable systems
+
     </td>
   </tr>
 </table>
