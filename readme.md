@@ -23,14 +23,21 @@
     <td width="50%" style="vertical-align: top;">
       <h4>🔍 The Profile</h4>
       <ul>
-        <li><b>8+ Years</b> bridging the gap between Business & Code.</li>
+        <li><b>8+ Years</b> bridging the gap between Business & Technology.</li>
         <li>Specialist in <b>Supply Chain & Financial Automation</b>.</li>
-        <li>Transitioning into <b>Full-Stack Development</b> with a Data-First mindset.</li>
+        <li>Transitioning into <b>Full-Stack Foundations</b> with a Data-First mindset.</li>
         <li>Expert in <b>ERP Systems</b> (SAP & Oracle).</li>
       </ul>
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jilberhernandez&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="100%" />
+
+    <td width="50%" style="vertical-align: top; padding-left: 20px;">
+      <h4>🧠 Focus Areas</h4>
+      <ul>
+        <li><b>Data & Analytics</b> — BI, Reporting, Automation</li>
+        <li><b>IT Systems</b> — ERP Integration & Process Design</li>
+        <li><b>Web Foundations</b> — React, Node.js, Express</li>
+        <li><b>Engineering Mindset</b> — Business-driven, scalable solutions</li>
+      </ul>
     </td>
   </tr>
 </table>
