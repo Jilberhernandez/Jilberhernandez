@@ -34,14 +34,13 @@
 
     <td width="50%" align="center" style="vertical-align: middle; padding: 20px;">
 
-<img src="./assets/avatar.png" width="140" style="border-radius: 50%;" />
+<img src="./assets/avatar.jpg" width="140" style="border-radius: 50%;" />
 
 <br/><br/>
 
 <b>IT & Data Focus</b><br/>
 Business-driven · Data-first · Scalable systems
 
-    </td>
   </tr>
 </table>
 
