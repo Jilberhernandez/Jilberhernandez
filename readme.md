@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./assets/avatar.png" width="140" style="border-radius: 50%;" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=JILBER+HERNANDEZ;IT+%26+Data+Specialist;From+Operations+to+Technology;Data-Driven+Solutions+Expert" alt="Typing SVG" />
 </p>
 
